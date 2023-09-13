@@ -9,6 +9,8 @@ O desafio faz parte do "Orientação a Objetos e UML: Diagramação de Classes d
 </p>
 
 <h2>Diagrama</h2>
+![Diagrama](https://github.com/christianebs/java-simulador-iphone/assets/108686840/41fe4f44-de90-4dd7-a87f-3b5514aae46b)
+
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/5c7bf7c9-1183-43a0-9b86-49812dad39fc"> Informações </h2>
 
